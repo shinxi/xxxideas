@@ -1,4 +1,15 @@
 UPDATE 2013-01-29
-project name: xxxideas
-project target: make world better
+name: xxxideas
+target: make world better
+tools: weibo, github, eclipse and remember the milk
+members: fatshaw, magicxin and moon
+
+milestone 1
+The deadline is 2013-02-04 10:00.
+1. determine the tools 
+  version management : svn or github？
+  doc : wiz or google doc or evernote or something else
+2. Assign work to everyone : Please write a doc about your own idea about the project. you can write whatever you can think. and We will review what we write next week
+3. I will be responsible for building a eclipse + adt enviroment and write a detailed doc about it. 
+4. Assign a work to magicxin and wx: please do some research about existing apps related to chat and just in time communcation in apple store. I will do research about the existing apps in andriod market.
 
