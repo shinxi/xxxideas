@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout
+	android:id="@+id/widget0"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	xmlns:android="http://schemas.android.com/apk/res/android">
+<ImageButton
+	android:id="@+id/widget35"
+	android:layout_width="122dp"
+	android:layout_height="175dp"
+	android:layout_x="21dp"
+	android:layout_y="60dp" />
+<Button
+	android:id="@+id/widget37"
+	android:layout_width="84dp"
+	android:layout_height="wrap_content"
+	android:text="&#21457;&#28040;&#24687;&#32473;&#20182;"
+	android:layout_x="193dp"
+	android:layout_y="64dp" />
+<Button
+	android:id="@+id/widget38"
+	android:layout_width="84dp"
+	android:layout_height="wrap_content"
+	android:text="&#25171;&#30005;&#35805;&#32473;&#20182;"
+	android:layout_x="193dp"
+	android:layout_y="128dp" />
+<Button
+	android:id="@+id/widget39"
+	android:layout_width="85dp"
+	android:layout_height="wrap_content"
+	android:text="&#20182;&#22312;&#21738;&#37324;"
+	android:layout_x="191dp"
+	android:layout_y="190dp" />
+<Button
+	android:id="@+id/widget40"
+	android:layout_width="83dp"
+	android:layout_height="wrap_content"
+	android:text="&#20851;&#24515;&#20182;&#65288;&#30417;&#25511;&#65289;"
+	android:layout_x="193dp"
+	android:layout_y="254dp" />
+<Button
+	android:id="@+id/widget41"
+	android:layout_width="113dp"
+	android:layout_height="wrap_content"
+	android:text="&#21508;&#31181;&#21382;&#21490;&#35760;&#24405;"
+	android:layout_x="25dp"
+	android:layout_y="252dp" />
+<TextView
+	android:id="@+id/widget36"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:text="&#20320;&#36824;&#27809;&#26377;&#35774;&#20182;&#21734;~~&#65288;&#22312;&#22270;&#29255;&#26174;&#31034;&#8220;&#23556;&#20182;&#8221;&#65289;"
+	android:layout_x="22dp"
+	android:layout_y="22dp" />
+</AbsoluteLayout>
