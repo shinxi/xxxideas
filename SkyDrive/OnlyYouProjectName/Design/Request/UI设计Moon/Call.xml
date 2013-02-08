@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout
+	android:id="@+id/widget0"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	xmlns:android="http://schemas.android.com/apk/res/android">
+<EditText
+	android:id="@+id/widget45"
+	android:layout_width="218dp"
+	android:layout_height="283dp"
+	android:text="&#25171;&#30005;&#35805;&#24377;&#20986;&#20010;&#23545;&#35805;&#26694;&#35753;&#29992;&#25143;&#36873;&#25321;&#26159;&#21542;&#24405;&#38899;&#65292;&#24182;&#35760;&#20303;&#29992;&#25143;&#30340;&#36873;&#25321;&#19979;&#27425;&#23601;&#30452;&#25509;&#25320;&#36890;&#30005;&#35805;&#20102;"
+	android:textSize="18sp"
+	android:layout_x="46dp"
+	android:layout_y="63dp" />
+</AbsoluteLayout>
